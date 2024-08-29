@@ -16,7 +16,7 @@ def classify_text(texts, labels):
 def main():
  
     # Title and description
-    st.markdown("<h1 style='text-align: center; color: #002663;'>Text Classification App</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color: #FFD200;'>Text Classification App</h1>", unsafe_allow_html=True)
     st.markdown("<p style='text-align: center; color: #F28B00; '>Upload a CSV, input labels, and classify text using AI.</p>", unsafe_allow_html=True)
 
     # Upload CSV
